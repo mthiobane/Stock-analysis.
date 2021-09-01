@@ -9,7 +9,7 @@ So, the investors that have identified DAQO in the market in 2017 were very happ
 In 2018 the market has plunged except ENPH and RUN. DAQO have the record of loss for - 62.6%. This could be due the low volume of transaction which can amplify the performance of the stock when it rose or decline.
 Now Steve’s parents have all the information to invest in the rights stock. ENPH and RUN are more stable in term of performance over 2017 and 2018. We can recommend those stocks.
 #### All Stock Analysis Refactored 2017![All stocks Analysis  2017](https://user-images.githubusercontent.com/89410157/131737443-a072a05e-9b94-43e4-8b87-ddadfedf6123.png)
-#### All Stock Analysis Refactored 2018![All stocks Analysis  2018](https://user-images.githubusercontent.com/89410157/131738999-b78d1e7e-807c-4124-9822-445a7188c480.png)
+#### All Stock Analysis Refactored 2018![All stocks Analysis  2018](https://user-images.githubusercontent.com/89410157/131739261-34ef96d5-aec7-4e15-bc07-bb7106ee0ad2.png)
 To perform this analysis by using VBA, the analysis was done during the module, so the main task was to edit of refactor to code and provide the same result.
 The first objective is accomplished as we have the same result for the original and the refactored analysis.
 The analysis original analysis and the refactored Analysis are run in 0.5429688 for 2017 and 0.5351563 for 2018. The timings are similar so we can say that refactoring hasn’t affect the performance of the code that much.
