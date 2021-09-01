@@ -1,19 +1,15 @@
 # Green Stock analysis
-
 ## Overview of Project: Explain the purpose of this analysis.
 The purpose of this analysis is the helps Steve to show his parents the performance of the green industry between 2017 and 2018. The analysis will show if it is interesting to invest in DAQO New energy Corp or if they are other companies that have performed better.
 This analysis will help Steve’s parents to take a better decision based on our founding’s.
-
 ## Results: Using images and examples of your code, compare the stock performance between 2017 and 2018, as well as the execution times of the original script and the refactored script.
 At a glance, we can see that the green energy industry stocks were more performant in 2017 compared to 2018.
 In 2017 the entire market performed well except Terp (-7.2%), DAQO lead the market in term of return on investment of almost + 200% (2199.4%), but DAQO Stock hasn’t been traded that much compared to the other stock. In fact, DAQO has the lowest volume of transactions that year.
 So, the investors that have identified DAQO in the market in 2017 were very happy of their investment.
 In 2018 the market has plunged except ENPH and RUN. DAQO have the record of loss for - 62.6%. This could be due the low volume of transaction which can amplify the performance of the stock when it rose or decline.
 Now Steve’s parents have all the information to invest in the rights stock. ENPH and RUN are more stable in term of performance over 2017 and 2018. We can recommend those stocks.
-
 #### All Stock Analysis Refactored 2017![All stocks Analysis  2017](https://user-images.githubusercontent.com/89410157/131737443-a072a05e-9b94-43e4-8b87-ddadfedf6123.png)
-#### All Stock Analysis Refactored 2018![All stocks Analysis  2018](https://user-images.githubusercontent.com/89410157/131737487-ceeaa938-14fd-41db-89d8-fd68e84488cb.png)
-
+#### All Stock Analysis Refactored 2018![All stocks Analysis  2018](https://user-images.githubusercontent.com/89410157/131738999-b78d1e7e-807c-4124-9822-445a7188c480.png)
 To perform this analysis by using VBA, the analysis was done during the module, so the main task was to edit of refactor to code and provide the same result.
 The first objective is accomplished as we have the same result for the original and the refactored analysis.
 The analysis original analysis and the refactored Analysis are run in 0.5429688 for 2017 and 0.5351563 for 2018. The timings are similar so we can say that refactoring hasn’t affect the performance of the code that much.
